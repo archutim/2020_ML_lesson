@@ -1,4 +1,4 @@
-# 2020_ML_lesson
+# 2020_ML_Lesson
 
 ## Assignment 1
 **COVID-19 Forecast</br>**
